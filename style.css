@@ -39,6 +39,8 @@ section{
 }
 
 .d1:hover{
+    transform: scale(1.1) translateY(-5px);
+    
 
 }
 
@@ -127,4 +129,19 @@ img{
     width: 250px;
     height: 250px;
     border-radius: 10px;
+}
+
+.imgh{
+    width: 250px;
+    height: 250px;
+    background-image: url('/img/img1.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    transition: background-image 0.3s ease;
+}
+
+.imgh:hover{
+    
+    background-image: url('/img/img11.jpg');
 }
