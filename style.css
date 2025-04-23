@@ -125,13 +125,10 @@ p{
     color: rgb(65, 66, 66);
 }
 
-img{
-    width: 250px;
-    height: 250px;
-    border-radius: 10px;
-}
 
-.imgh{
+/*=============== image & hover start ===================*/
+
+.img1{
     width: 250px;
     height: 250px;
     background-image: url('/img/img1.jpg');
@@ -141,7 +138,174 @@ img{
     transition: background-image 0.3s ease;
 }
 
-.imgh:hover{
+.img1:hover{
     
-    background-image: url('/img/img11.jpg');
+    background-image: url('/img/img01.jpg');
 }
+
+.img2{
+    width: 250px;
+    height: 250px;
+    background-image: url('/img/img5.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    transition: background-image 0.3s ease;
+}
+
+.img2:hover{
+    
+    background-image: url('/img/img05.jpg');
+}
+
+.img3{
+    width: 250px;
+    height: 250px;
+    background-image: url('/img/img9.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    transition: background-image 0.3s ease;
+}
+
+.img3:hover{
+    
+    background-image: url('/img/img09.jpg');
+}
+
+.img4{
+    width: 250px;
+    height: 250px;
+    background-image: url('/img/img2.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    transition: background-image 0.3s ease;
+}
+
+.img4:hover{
+    
+    background-image: url('/img/img02.jpg');
+}
+
+.img5{
+    width: 250px;
+    height: 250px;
+    background-image: url('/img/img6.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    transition: background-image 0.3s ease;
+}
+
+.img5:hover{
+    
+    background-image: url('/img/img06.jpg');
+}
+
+.img6{
+    width: 250px;
+    height: 250px;
+    background-image: url('/img/img10.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    transition: background-image 0.3s ease;
+}
+
+.img6:hover{
+    
+    background-image: url('/img/img010.jpg');
+}
+
+.img7{
+    width: 250px;
+    height: 250px;
+    background-image: url('/img/img3.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    transition: background-image 0.3s ease;
+}
+
+.img7:hover{
+    
+    background-image: url('/img/img03.jpg');
+}
+
+.img8{
+    width: 250px;
+    height: 250px;
+    background-image: url('/img/img7.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    transition: background-image 0.3s ease;
+}
+
+.img8:hover{
+    
+    background-image: url('/img/img07.jpg');
+}
+
+.img9{
+    width: 250px;
+    height: 250px;
+    background-image: url('/img/img11.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    transition: background-image 0.3s ease;
+}
+
+.img9:hover{
+    
+    background-image: url('/img/img011.jpg');
+}
+
+.img10{
+    width: 250px;
+    height: 250px;
+    background-image: url('/img/img4.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    transition: background-image 0.3s ease;
+}
+
+.img10:hover{
+    
+    background-image: url('/img/img04.jpg');
+}
+
+.img11{
+    width: 250px;
+    height: 250px;
+    background-image: url('/img/img8.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    transition: background-image 0.3s ease;
+}
+
+.img11:hover{
+    
+    background-image: url('/img/img08.jpg');
+}
+
+.img12{
+    width: 250px;
+    height: 250px;
+    background-image: url('/img/img12.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    transition: background-image 0.3s ease;
+}
+
+.img12:hover{
+    
+    background-image: url('/img/img012.jpg');
+}
+
+/*=============== image & hover end ===================*/
