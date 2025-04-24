@@ -8,6 +8,90 @@ body{
     background-color: rgb(248, 239, 248);
 }
 
+/* ======================= NAVBAR START========================== */
+
+/* #nav-sec{
+    width: 100%;
+    height: 100px;
+    
+    margin-bottom: 40px;
+} */
+
+
+/* #nav-con{
+    
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    
+}
+
+#nav-img{
+    width: 200px;
+    height: 100px;
+}
+
+#btn{
+    width: 500px;
+    font-weight: bold;
+    font-size: 14px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+}
+
+#btn input{
+    width: 400px;
+    margin-left: 40px;
+    height: 44px;
+    border: none;
+    border-radius: 30px;
+    background-color: transparent;
+}
+
+a{
+    text-decoration: none;
+    color: silver;  
+}
+
+.nav-btn1{
+    width: 250px;
+    height: 50px;
+    background-color: rgb(147, 211, 52);
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.nav-btn2{
+    width: 80px;
+    height: 30px;
+    margin-right: 20px;
+    background-color: black;
+    color: silver;
+    border-radius: 30px;
+    cursor: pointer;
+} */
+
+/* ======================= NAVBAR END========================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
 section{
     margin: 20px 0;
     display: flex;
