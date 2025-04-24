@@ -40,6 +40,7 @@ body{
     height: 50px;
     border-radius: 30px;
     border: none;
+    cursor: pointer;
 }
 
 #btn input{
@@ -75,6 +76,29 @@ a{
     background-color: black;
     color: silver;
     border-radius: 30px;
+    cursor: pointer;
+}
+
+
+
+#nav-con2{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    height: 40px;
+}
+
+.a0{
+    font-weight: bold;
+}
+
+.nav-btn3{
+    width: 100px;
+    height: 20px;
+    background-color: black;
+    color: silver;
+    font-weight: bold;
+    border-left: 2px solid silver;
     cursor: pointer;
 }
 
