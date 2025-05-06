@@ -20,8 +20,9 @@ body{
 
 #nav-con{
     
-    height: 100px;
+    /* height: 100px; */
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     background-color: black;
@@ -42,9 +43,17 @@ body{
     border: none;
     cursor: pointer;
 }
-
+#i1{
+    width: 50px;
+    height: 50px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 #btn input{
-    width: 400px;
+    margin: 20px;
+    width: 350px;
     margin-left: 40px;
     height: 44px;
     border: none;
@@ -84,6 +93,7 @@ a{
 #nav-con2{
     background-color: black;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     height: 40px;
 }
@@ -101,6 +111,7 @@ a{
     border-left: 2px solid silver;
     cursor: pointer;
 }
+
 
 /* ======================= NAVBAR END========================== */
 
@@ -180,7 +191,7 @@ p{
 .img1{
     width: 250px;
     height: 250px;
-    background-image: url('/img/img1.jpg');
+    /* background-image: url('/img/img1.jpg'); */
     background-size: cover;
     background-position: center;
     border-radius: 10px;
